@@ -8,7 +8,7 @@ Tes diagbosis di dalam program ini terdiri dari lima tes yang berbeda (EEG, EMG,
 Tujuan dari program ini adalah untuk membuat sistem diagnosis yang dapat menunjang kebutuhan pusat otak agar data pasien menjadi terstruktur dan mudah untuk dibaca.
 
 ## User
-Admin dan pasien
+Admin pusat otak dan pasien
 
 ## Fitur unggulan
 1. User dapat memilih untuk login sebagai admin atau pasien
