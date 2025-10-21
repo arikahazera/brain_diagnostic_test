@@ -16,4 +16,4 @@ Admin pusat otak dan pasien
 
 ## Limitasi
 1. Tidak ada fitur untuk merekomendasi tes yang dibutuhkan oleh pasien
-2. Tidak dapat mendeteksi lowercase dan uppercase di beberapa input
+2. Tidak dapat mendeteksi *lowercase* dan *uppercase* di beberapa input
