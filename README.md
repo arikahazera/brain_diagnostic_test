@@ -1,10 +1,11 @@
 # brain_diagnostic_test
 
 ## Overview
-Program yang dapat digunakan pusat otak untuk gangguan pada otak yang terdiri dari lima tes yang berbeda (EEG, EMG, MRI, CT Scan, dan PET Scan) dan layanan reservasi untuk tes-tes tersebut.
+Program ini dibuat menggunakan salah satu bahasa pemrograman (python), dan dapat digunakan oleh pusat otak untuk mendeteksi gangguan pada otak.
+Tes diagbosis di dalam program ini terdiri dari lima tes yang berbeda (EEG, EMG, MRI, CT Scan, dan PET Scan) termasuk layanan reservasi untuk tes-tes tersebut.
 
 ## Objective
-Membuat sistem diagnosis yang dapat menunjang kebutuhan pusat otak agar data pasien menjadi terstruktur dan mudah untuk dibaca.
+Tujuan dari program ini adalah untuk membuat sistem diagnosis yang dapat menunjang kebutuhan pusat otak agar data pasien menjadi terstruktur dan mudah untuk dibaca.
 
 ## User
 Admin dan pasien
